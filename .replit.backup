@@ -1,0 +1,8 @@
+language="nodejs"
+run="jest"
+
+# <---
+# Читай условие задачи в README.md
+# Пиши свое решение в calculator.js
+# Код в calculator.test.js не трогай
+# <---
